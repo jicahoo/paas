@@ -1,1 +1,4 @@
 # paas
+* AWS
+* Azure
+* Cloudfoundry
