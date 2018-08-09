@@ -4,3 +4,4 @@
 * GAE
 * Heroku?
 * Cloudfoundry
+* Kubernetes?
